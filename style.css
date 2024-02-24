@@ -9,6 +9,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
 a {
     color: #ffffff;
 }
@@ -20,4 +21,11 @@ a {
     background-color: #000000;
     border-style: solid;
     border-color: #27ff27;
+  }
+
+  *{
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
   }
