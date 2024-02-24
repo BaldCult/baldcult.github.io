@@ -9,10 +9,14 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 }
+a {
+    color: #ffffff;
+}
 
 .topnav {
+    padding-left: 15px;
     box-sizing: border-box;
-    overflow: scroll;
+    overflow: hidden;
     background-color: #000000;
     border-style: solid;
     border-color: #27ff27;
