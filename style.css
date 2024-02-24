@@ -1,7 +1,19 @@
-.Title {
-    color: red;
+.Opening {
+    color: rgb(53, 255, 53);
 }
 
 body {
-    font-family: 'Carattere';font-size: 22px;
+    font-family: 'Workbench';font-size: 22px;
+    color: #ffffff;
+    background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b0b7c577-941a-496d-a656-32c5732d82ff/d6h0i32-15f2929e-0015-44de-a2c9-59d30e2923f8.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2IwYjdjNTc3LTk0MWEtNDk2ZC1hNjU2LTMyYzU3MzJkODJmZlwvZDZoMGkzMi0xNWYyOTI5ZS0wMDE1LTQ0ZGUtYTJjOS01OWQzMGUyOTIzZjguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.agQ9DxpNax_MUrk9IOIybBjYCzcQURmH4-M-nC2ZNCk");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
+
+.topnav {
+    box-sizing: border-box;
+    overflow: scroll;
+    background-color: #000000;
+    border-style: solid;
+    border-color: #27ff27;
+  }
