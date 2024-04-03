@@ -11,7 +11,8 @@ body {
 }
 
 a {
-    color: #ffffff;
+    color: #fff;
+    width: 255px;
 }
 
 .topnav {
@@ -23,9 +24,17 @@ a {
     border-color: #27ff27;
   }
 
-  *{
-    text-align: center;
-    margin-right: auto;
-    margin-left: auto;
-    display: block;
-  }
+*{
+text-align: center;
+margin-right: auto;
+margin-left: auto;
+display: block;
+}
+
+#ekknod_chad {
+    transition: all 0.5s ease;
+}
+
+#ekknod_chad:hover {
+    transform: scale(1.5);
+}
